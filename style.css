@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+}
+
+.delete{
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 61, 61);
+}
+
+.submit{
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 184, 0);
+}
+
+input{
+    border-radius: 5px;
+    border: 2px solid  rgb(0, 184, 0);
+    color: green;
+}
