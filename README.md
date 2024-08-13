@@ -1,7 +1,9 @@
 # Todo App
 
 ## Overview
-A simple to-do list application built with Vanilla javascript, Html and Css.
+A simple to-do list application built with Vanilla JavaScript, HTML, and CSS.
+
+[Live Demo](https://aqibmunir8.github.io/todo-app/)
 
 ## Features
 - Add new tasks
